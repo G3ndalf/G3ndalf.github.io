@@ -1,5 +1,5 @@
 let phrases = [
-    { text: 'Виски', image: 'https://ae04.alicdn.com/kf/A254086a8890e46eebd47d7bf9356053fY.jpeg' },
+    { text: 'Виски', image: 'https://www.cigarpro.ru/images/blogs/medium/1696501337-cem-otlicaetsia-burbon-ot-viski.webp' },
     { text: 'Шампусик', image: 'https://ru.inshaker.com/ckeditor_assets/pictures/6169/original_1.jpg' },
     { text: 'Лимонад', image: 'https://s0.rbk.ru/v6_top_pics/media/img/6/59/346820747286596.webp' },
     { text: 'Ром', image: 'https://sdelai-doma.ru/upload/resize_cache/webp/iblock/03a/03a764a691a9234e4c7ebeabed949162.webp' },
